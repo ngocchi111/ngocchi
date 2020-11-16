@@ -1,0 +1,26 @@
+
+nGr
+{
+    font-weight: bold;
+    font-size: 20pt;
+    color: blue;
+    font-style: italic;
+    font-family: arial;
+}
+nLs
+{
+    font-weight: lighter;
+    font-size: 16pt;
+    color: black;
+    font-style: italic;
+    font-family: arial;
+}
+nSv
+{
+    list-style: disc;
+    font-weight: bold;
+    font-size: 14pt;
+    color: blueviolet;
+    font-style: italic;
+    font-family: arial;
+}
